@@ -1,0 +1,3 @@
+com\college\studentmanagement\controller\StudentController.class
+com\college\studentmanagement\service\StudentService.class
+com\college\studentmanagement\StudentmanagementApplication.class
