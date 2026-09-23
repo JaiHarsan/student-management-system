@@ -1,5 +1,5 @@
 package com.college.studentmanagement.controller;
-
+ 
 import java.util.List;
   
 import org.springframework.web.bind.annotation.CrossOrigin;
